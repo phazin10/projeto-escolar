@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtualenv
+fds_env/
+env/
+venv/
+
+# Variáveis de ambiente
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
